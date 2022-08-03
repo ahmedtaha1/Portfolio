@@ -131,6 +131,18 @@ header li a {
   font-size: 17px;
   color: #6b6b6b;
 }
+.cv {
+  width: 45px;
+  height: 45px;
+  color: #fff;
+  background-color: #9c3837;
+  display: inline-block;
+  text-align: center;
+  line-height: 45px;
+  font-weight: bold;
+  font-size: 30px;
+  margin: 15px 5px 0;
+}
 #about .img {
   height: 560px;
 }
