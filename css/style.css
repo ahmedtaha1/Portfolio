@@ -10,14 +10,13 @@ html {
 }
 body {
   font-family: "Poppins", sans-serif;
+  overflow-y: hidden;
 }
 html,
 body {
   overflow-x: hidden;
 }
-body {
-  overflow-y: hidden;
-}
+
 ul {
   list-style: none;
 }
